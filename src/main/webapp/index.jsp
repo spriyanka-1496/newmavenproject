@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to Greens - best software !!!!!! @@@ 5566<font></h1>
-<h2> Arun - Senior Trainer for AWS & DevOps1 Annanagarnewbaranch greens tech is one of the leading instiute ... </h2>
+<h1><font color='red'> Welcome to Greens - best software !!!!!! @@@ 5566<font></h1>
+<h2> PRIYA - Senior Trainer for AWS & DevOps1 Annanagarnewbaranch greens tech is one of the leading instiute ... </h2>
 
 <a href=" http://www.greenstechnologys.com/contact.php">Click Here To See Greens Training Schedules</a>
   
